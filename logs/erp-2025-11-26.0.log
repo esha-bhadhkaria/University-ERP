@@ -1,0 +1,584 @@
+2025-11-26 02:14:04.340 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-11-26 02:14:05.034 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6a6afff2
+2025-11-26 02:14:05.039 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-11-26 02:14:05.039 [main] INFO  e.univ.erp.util.DbConnectionManager - Auth database connection pool initialized
+2025-11-26 02:14:05.040 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+2025-11-26 02:14:05.058 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6b8ca3c8
+2025-11-26 02:14:05.059 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+2025-11-26 02:14:05.060 [main] INFO  e.univ.erp.util.DbConnectionManager - ERP database connection pool initialized
+2025-11-26 02:14:37.284 [AWT-EventQueue-0] INFO  e.u.e.service.AuthenticationService - User logged in successfully: admin1 (ADMIN)
+2025-11-26 02:17:47.915 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-11-26 02:17:48.049 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-11-26 02:17:48.050 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown initiated...
+2025-11-26 02:17:48.070 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown completed.
+2025-11-26 02:17:48.071 [Thread-0] INFO  e.univ.erp.util.DbConnectionManager - Database connections closed
+2025-11-26 02:32:12.892 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-11-26 02:32:13.139 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@71a8adcf
+2025-11-26 02:32:13.142 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-11-26 02:32:13.142 [main] INFO  e.univ.erp.util.DbConnectionManager - Auth database connection pool initialized
+2025-11-26 02:32:13.142 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+2025-11-26 02:32:13.150 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@59505b48
+2025-11-26 02:32:13.150 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+2025-11-26 02:32:13.150 [main] INFO  e.univ.erp.util.DbConnectionManager - ERP database connection pool initialized
+2025-11-26 02:32:22.911 [AWT-EventQueue-0] INFO  e.u.e.service.AuthenticationService - User logged in successfully: admin1 (ADMIN)
+2025-11-26 02:33:01.100 [AWT-EventQueue-0] INFO  edu.univ.erp.data.NotificationDao - Global notification published by user 1: Welcome to the University ERP System!
+2025-11-26 02:37:54.459 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-11-26 02:37:54.485 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-11-26 02:37:54.486 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown initiated...
+2025-11-26 02:37:54.492 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown completed.
+2025-11-26 02:37:54.492 [Thread-0] INFO  e.univ.erp.util.DbConnectionManager - Database connections closed
+2025-11-26 02:44:56.007 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-11-26 02:44:56.254 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@71a8adcf
+2025-11-26 02:44:56.256 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-11-26 02:44:56.256 [main] INFO  e.univ.erp.util.DbConnectionManager - Auth database connection pool initialized
+2025-11-26 02:44:56.257 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+2025-11-26 02:44:56.263 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@59505b48
+2025-11-26 02:44:56.264 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+2025-11-26 02:44:56.264 [main] INFO  e.univ.erp.util.DbConnectionManager - ERP database connection pool initialized
+2025-11-26 02:45:10.026 [AWT-EventQueue-0] INFO  e.u.e.service.AuthenticationService - User logged in successfully: admin1 (ADMIN)
+2025-11-26 02:45:25.396 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-11-26 02:45:25.412 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-11-26 02:45:25.413 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown initiated...
+2025-11-26 02:45:25.420 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown completed.
+2025-11-26 02:45:25.421 [Thread-0] INFO  e.univ.erp.util.DbConnectionManager - Database connections closed
+2025-11-26 02:49:41.850 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-11-26 02:49:42.099 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@71a8adcf
+2025-11-26 02:49:42.101 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-11-26 02:49:42.101 [main] INFO  e.univ.erp.util.DbConnectionManager - Auth database connection pool initialized
+2025-11-26 02:49:42.101 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+2025-11-26 02:49:42.108 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@59505b48
+2025-11-26 02:49:42.108 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+2025-11-26 02:49:42.109 [main] INFO  e.univ.erp.util.DbConnectionManager - ERP database connection pool initialized
+2025-11-26 02:49:54.869 [AWT-EventQueue-0] INFO  e.u.e.service.AuthenticationService - User logged in successfully: admin1 (ADMIN)
+2025-11-26 02:49:59.694 [AWT-EventQueue-0] INFO  edu.univ.erp.data.CourseDao - Course snapshot successfully created.
+2025-11-26 02:49:59.727 [AWT-EventQueue-0] INFO  edu.univ.erp.data.SectionDao - Section snapshot successfully created.
+2025-11-26 02:49:59.728 [AWT-EventQueue-0] INFO  edu.univ.erp.service.AdminService - FULL ERP DATABASE BACKUP COMPLETE.
+2025-11-26 02:50:20.418 [AWT-EventQueue-0] INFO  edu.univ.erp.service.AdminService - Section ID 2 successfully deleted.
+2025-11-26 02:50:30.521 [AWT-EventQueue-0] INFO  edu.univ.erp.service.AdminService - FULL ERP DATABASE RESTORE COMPLETE. Courses: 30, Sections: 11.
+2025-11-26 02:50:40.830 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-11-26 02:50:40.858 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-11-26 02:50:40.859 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown initiated...
+2025-11-26 02:50:40.866 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown completed.
+2025-11-26 02:50:40.866 [Thread-0] INFO  e.univ.erp.util.DbConnectionManager - Database connections closed
+2025-11-26 03:00:20.943 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-11-26 03:00:21.203 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@71a8adcf
+2025-11-26 03:00:21.205 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-11-26 03:00:21.205 [main] INFO  e.univ.erp.util.DbConnectionManager - Auth database connection pool initialized
+2025-11-26 03:00:21.205 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+2025-11-26 03:00:21.211 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@59505b48
+2025-11-26 03:00:21.212 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+2025-11-26 03:00:21.212 [main] INFO  e.univ.erp.util.DbConnectionManager - ERP database connection pool initialized
+2025-11-26 03:00:25.817 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-11-26 03:00:25.846 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-11-26 03:00:25.846 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown initiated...
+2025-11-26 03:00:25.854 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown completed.
+2025-11-26 03:00:25.855 [Thread-0] INFO  e.univ.erp.util.DbConnectionManager - Database connections closed
+2025-11-26 03:13:37.232 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-11-26 03:13:37.464 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@71a8adcf
+2025-11-26 03:13:37.466 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-11-26 03:13:37.466 [main] INFO  e.univ.erp.util.DbConnectionManager - Auth database connection pool initialized
+2025-11-26 03:13:37.466 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+2025-11-26 03:13:37.474 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@59505b48
+2025-11-26 03:13:37.475 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+2025-11-26 03:13:37.475 [main] INFO  e.univ.erp.util.DbConnectionManager - ERP database connection pool initialized
+2025-11-26 03:13:49.738 [AWT-EventQueue-0] INFO  e.u.e.service.AuthenticationService - User logged in successfully: admin1 (ADMIN)
+2025-11-26 03:14:17.066 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-11-26 03:14:17.096 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-11-26 03:14:17.097 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown initiated...
+2025-11-26 03:14:17.108 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown completed.
+2025-11-26 03:14:17.110 [Thread-0] INFO  e.univ.erp.util.DbConnectionManager - Database connections closed
+2025-11-26 03:16:51.568 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-11-26 03:16:52.966 [main] ERROR e.univ.erp.util.DbConnectionManager - Failed to initialize database connections
+com.zaxxer.hikari.pool.HikariPool$PoolInitializationException: Failed to initialize pool: Unknown database 'erp_auth'
+	at com.zaxxer.hikari.pool.HikariPool.throwPoolInitializationException(HikariPool.java:584)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:571)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:98)
+	at com.zaxxer.hikari.HikariDataSource.<init>(HikariDataSource.java:80)
+	at edu.univ.erp.util.DbConnectionManager.initialize(DbConnectionManager.java:46)
+	at edu.univ.erp.ErpApplication.main(ErpApplication.java:13)
+Caused by: java.sql.SQLSyntaxErrorException: Unknown database 'erp_auth'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:121)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:825)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:446)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:239)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:188)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:137)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:360)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:202)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:461)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:550)
+	... 4 common frames omitted
+2025-11-26 03:46:53.031 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-11-26 03:46:53.456 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5f683daf
+2025-11-26 03:46:53.459 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-11-26 03:46:53.459 [main] INFO  e.univ.erp.util.DbConnectionManager - Auth database connection pool initialized
+2025-11-26 03:46:53.460 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+2025-11-26 03:46:53.473 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@e1de817
+2025-11-26 03:46:53.474 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+2025-11-26 03:46:53.474 [main] INFO  e.univ.erp.util.DbConnectionManager - ERP database connection pool initialized
+2025-11-26 03:47:05.235 [AWT-EventQueue-0] INFO  e.u.e.service.AuthenticationService - User logged in successfully: admin1 (ADMIN)
+2025-11-26 03:52:12.578 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-11-26 03:52:12.630 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-11-26 03:52:12.630 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown initiated...
+2025-11-26 03:52:12.645 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown completed.
+2025-11-26 03:52:12.645 [Thread-0] INFO  e.univ.erp.util.DbConnectionManager - Database connections closed
+2025-11-26 03:52:27.549 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-11-26 03:52:27.933 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@71a8adcf
+2025-11-26 03:52:27.936 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-11-26 03:52:27.937 [main] INFO  e.univ.erp.util.DbConnectionManager - Auth database connection pool initialized
+2025-11-26 03:52:27.937 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+2025-11-26 03:52:27.947 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@59505b48
+2025-11-26 03:52:27.947 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+2025-11-26 03:52:27.948 [main] INFO  e.univ.erp.util.DbConnectionManager - ERP database connection pool initialized
+2025-11-26 03:52:40.263 [AWT-EventQueue-0] INFO  e.u.e.service.AuthenticationService - User logged in successfully: admin1 (ADMIN)
+2025-11-26 03:52:50.838 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-11-26 03:52:50.968 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-11-26 03:52:50.968 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown initiated...
+2025-11-26 03:52:50.976 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown completed.
+2025-11-26 03:52:50.977 [Thread-0] INFO  e.univ.erp.util.DbConnectionManager - Database connections closed
+2025-11-26 03:58:08.911 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-11-26 03:58:09.259 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@71a8adcf
+2025-11-26 03:58:09.262 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-11-26 03:58:09.262 [main] INFO  e.univ.erp.util.DbConnectionManager - Auth database connection pool initialized
+2025-11-26 03:58:09.263 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+2025-11-26 03:58:09.270 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@59505b48
+2025-11-26 03:58:09.271 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+2025-11-26 03:58:09.271 [main] INFO  e.univ.erp.util.DbConnectionManager - ERP database connection pool initialized
+2025-11-26 03:58:39.939 [AWT-EventQueue-0] INFO  e.u.e.service.AuthenticationService - User logged in successfully: admin1 (ADMIN)
+2025-11-26 03:59:18.719 [AWT-EventQueue-0] INFO  edu.univ.erp.data.StudentDao - Student profile created for userid: 5
+2025-11-26 03:59:18.720 [AWT-EventQueue-0] INFO  edu.univ.erp.service.AdminService - New student created: Stu3 (2024001)
+2025-11-26 03:59:44.937 [AWT-EventQueue-0] ERROR edu.univ.erp.data.AuthDao - Error creating user: Inst1
+java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'Inst1' for key 'users_auth.username'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:118)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:916)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeUpdateInternal(ClientPreparedStatement.java:1061)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeUpdateInternal(ClientPreparedStatement.java:1009)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeLargeUpdate(ClientPreparedStatement.java:1320)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeUpdate(ClientPreparedStatement.java:994)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.executeUpdate(ProxyPreparedStatement.java:61)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.executeUpdate(HikariProxyPreparedStatement.java)
+	at edu.univ.erp.data.AuthDao.createUser(AuthDao.java:83)
+	at edu.univ.erp.service.AdminService.createInstructor(AdminService.java:76)
+	at edu.univ.erp.ui.admin.AddUserWindow.saveUser(AddUserWindow.java:155)
+	at edu.univ.erp.ui.admin.AddUserWindow.lambda$new$1(AddUserWindow.java:90)
+	at java.desktop/javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:1972)
+	at java.desktop/javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2314)
+	at java.desktop/javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:407)
+	at java.desktop/javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:262)
+	at java.desktop/javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:279)
+	at java.desktop/java.awt.Component.processMouseEvent(Component.java:6576)
+	at java.desktop/javax.swing.JComponent.processMouseEvent(JComponent.java:3404)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6341)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2260)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:4958)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2318)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4790)
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4916)
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4559)
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4500)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2304)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2671)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4790)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:725)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:702)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:117)
+	at java.desktop/java.awt.WaitDispatchSupport$2.run(WaitDispatchSupport.java:187)
+	at java.desktop/java.awt.WaitDispatchSupport.enter(WaitDispatchSupport.java:229)
+	at java.desktop/java.awt.Dialog.show(Dialog.java:1051)
+	at java.desktop/java.awt.Component.show(Component.java:1690)
+	at java.desktop/java.awt.Component.setVisible(Component.java:1637)
+	at java.desktop/java.awt.Window.setVisible(Window.java:982)
+	at java.desktop/java.awt.Dialog.setVisible(Dialog.java:989)
+	at edu.univ.erp.ui.admin.AdminDashboard.lambda$createNavPanel$0(AdminDashboard.java:179)
+	at java.desktop/javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:1972)
+	at java.desktop/javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2314)
+	at java.desktop/javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:407)
+	at java.desktop/javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:262)
+	at java.desktop/javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:279)
+	at java.desktop/java.awt.Component.processMouseEvent(Component.java:6576)
+	at java.desktop/javax.swing.JComponent.processMouseEvent(JComponent.java:3404)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6341)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2260)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:4958)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2318)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4790)
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4916)
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4559)
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4500)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2304)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2671)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4790)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:725)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:702)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2025-11-26 03:59:53.449 [AWT-EventQueue-0] INFO  edu.univ.erp.data.InstructorDao - Instructor profile created for userid: 7
+2025-11-26 03:59:53.449 [AWT-EventQueue-0] INFO  edu.univ.erp.service.AdminService - New instructor created: Inst2 (Eve)
+2025-11-26 04:00:21.249 [AWT-EventQueue-0] INFO  edu.univ.erp.data.CourseDao - Course created: CSE001 - JAVA
+2025-11-26 04:00:21.251 [AWT-EventQueue-0] INFO  edu.univ.erp.service.AdminService - New course created: CSE001 - JAVA
+2025-11-26 04:01:01.990 [AWT-EventQueue-0] INFO  edu.univ.erp.service.AdminService - Section ID 2 successfully deleted.
+2025-11-26 04:02:23.950 [AWT-EventQueue-0] INFO  edu.univ.erp.data.DropDeadlineDao - Drop deadline set for semester 2 year 2025: 2025-12-12
+2025-11-26 04:03:09.576 [AWT-EventQueue-0] INFO  edu.univ.erp.data.NotificationDao - Global notification published by user 1: Hello this is your new erp
+2025-11-26 04:03:26.267 [AWT-EventQueue-0] INFO  edu.univ.erp.data.CourseDao - Course snapshot successfully created.
+2025-11-26 04:03:26.314 [AWT-EventQueue-0] INFO  edu.univ.erp.data.SectionDao - Section snapshot successfully created.
+2025-11-26 04:03:26.315 [AWT-EventQueue-0] INFO  edu.univ.erp.service.AdminService - FULL ERP DATABASE BACKUP COMPLETE.
+2025-11-26 04:03:54.271 [AWT-EventQueue-0] INFO  edu.univ.erp.service.AdminService - FULL ERP DATABASE RESTORE COMPLETE. Courses: 31, Sections: 11.
+2025-11-26 04:04:06.341 [AWT-EventQueue-0] INFO  edu.univ.erp.data.SettingsDao - Maintenance mode set to: true
+2025-11-26 04:04:06.342 [AWT-EventQueue-0] INFO  edu.univ.erp.service.AdminService - Maintenance mode toggled: true
+2025-11-26 04:04:21.611 [AWT-EventQueue-0] INFO  e.u.e.service.AuthenticationService - User logged in successfully: stu1 (STUDENT)
+2025-11-26 04:04:37.909 [AWT-EventQueue-0] INFO  e.u.e.service.AuthenticationService - User logged in successfully: admin1 (ADMIN)
+2025-11-26 04:04:42.586 [AWT-EventQueue-0] INFO  edu.univ.erp.data.SettingsDao - Maintenance mode set to: false
+2025-11-26 04:04:42.587 [AWT-EventQueue-0] INFO  edu.univ.erp.service.AdminService - Maintenance mode toggled: false
+2025-11-26 04:04:58.218 [AWT-EventQueue-0] INFO  e.u.e.service.AuthenticationService - User logged in successfully: stu1 (STUDENT)
+2025-11-26 04:05:18.972 [AWT-EventQueue-0] INFO  edu.univ.erp.data.EnrollmentDao - Student 3 registered for section 4
+2025-11-26 04:07:12.037 [AWT-EventQueue-0] INFO  e.u.e.service.AuthenticationService - User logged in successfully: Inst1 (INSTRUCTOR)
+2025-11-26 04:07:55.643 [AWT-EventQueue-0] INFO  edu.univ.erp.data.GradeDao - Grade updated for enrollment 1 component Quiz
+2025-11-26 04:07:55.644 [AWT-EventQueue-0] INFO  e.univ.erp.service.InstructorService - Grade entered for enrollment 1 component Quiz: 80.0/100.0
+2025-11-26 04:07:55.652 [AWT-EventQueue-0] INFO  edu.univ.erp.data.GradeDao - Grade updated for enrollment 1 component Midterm
+2025-11-26 04:07:55.653 [AWT-EventQueue-0] INFO  e.univ.erp.service.InstructorService - Grade entered for enrollment 1 component Midterm: 90.0/100.0
+2025-11-26 04:07:55.659 [AWT-EventQueue-0] INFO  edu.univ.erp.data.GradeDao - Grade updated for enrollment 1 component EndSem
+2025-11-26 04:07:55.660 [AWT-EventQueue-0] INFO  e.univ.erp.service.InstructorService - Grade entered for enrollment 1 component EndSem: 90.0/100.0
+2025-11-26 04:10:09.148 [AWT-EventQueue-0] INFO  edu.univ.erp.data.GradeDao - Grade updated for enrollment 1 component EndSem
+2025-11-26 04:10:09.153 [AWT-EventQueue-0] INFO  edu.univ.erp.data.GradeDao - Grade updated for enrollment 1 component Midterm
+2025-11-26 04:10:09.157 [AWT-EventQueue-0] INFO  edu.univ.erp.data.GradeDao - Grade updated for enrollment 1 component Quiz
+2025-11-26 04:11:15.829 [AWT-EventQueue-0] WARN  e.u.e.service.AuthenticationService - Login failed: incorrect password - admin1. Attempt: 1/5
+2025-11-26 04:11:23.081 [AWT-EventQueue-0] INFO  e.u.e.service.AuthenticationService - User logged in successfully: admin1 (ADMIN)
+2025-11-26 04:11:47.332 [AWT-EventQueue-0] INFO  edu.univ.erp.service.AdminService - Section ID 13 successfully deleted.
+2025-11-26 04:11:58.812 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-11-26 04:11:58.898 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-11-26 04:11:58.898 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown initiated...
+2025-11-26 04:11:58.909 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown completed.
+2025-11-26 04:11:58.911 [Thread-0] INFO  e.univ.erp.util.DbConnectionManager - Database connections closed
+2025-11-26 05:51:10.724 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-11-26 05:51:12.235 [main] ERROR e.univ.erp.util.DbConnectionManager - Failed to initialize database connections
+com.zaxxer.hikari.pool.HikariPool$PoolInitializationException: Failed to initialize pool: Unknown database 'erp_auth'
+	at com.zaxxer.hikari.pool.HikariPool.throwPoolInitializationException(HikariPool.java:584)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:571)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:98)
+	at com.zaxxer.hikari.HikariDataSource.<init>(HikariDataSource.java:80)
+	at edu.univ.erp.util.DbConnectionManager.initialize(DbConnectionManager.java:46)
+	at edu.univ.erp.ErpApplication.main(ErpApplication.java:13)
+Caused by: java.sql.SQLSyntaxErrorException: Unknown database 'erp_auth'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:121)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:825)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:446)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:239)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:188)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:137)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:360)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:202)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:461)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:550)
+	... 4 common frames omitted
+2025-11-26 05:51:43.739 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-11-26 05:51:44.157 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@71a8adcf
+2025-11-26 05:51:44.160 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-11-26 05:51:44.160 [main] INFO  e.univ.erp.util.DbConnectionManager - Auth database connection pool initialized
+2025-11-26 05:51:44.161 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+2025-11-26 05:51:44.172 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@59505b48
+2025-11-26 05:51:44.173 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+2025-11-26 05:51:44.173 [main] INFO  e.univ.erp.util.DbConnectionManager - ERP database connection pool initialized
+2025-11-26 05:52:10.129 [AWT-EventQueue-0] WARN  e.u.e.service.AuthenticationService - Login failed: incorrect password - admin1. Attempt: 1/5
+2025-11-26 05:52:17.278 [AWT-EventQueue-0] INFO  e.u.e.service.AuthenticationService - User logged in successfully: admin1 (ADMIN)
+2025-11-26 05:52:25.493 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-11-26 05:52:25.570 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-11-26 05:52:25.570 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown initiated...
+2025-11-26 05:52:25.577 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown completed.
+2025-11-26 05:52:25.577 [Thread-0] INFO  e.univ.erp.util.DbConnectionManager - Database connections closed
+2025-11-26 06:53:23.027 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-11-26 06:53:23.405 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@71a8adcf
+2025-11-26 06:53:23.408 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-11-26 06:53:23.408 [main] INFO  e.univ.erp.util.DbConnectionManager - Auth database connection pool initialized
+2025-11-26 06:53:23.408 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+2025-11-26 06:53:23.420 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@59505b48
+2025-11-26 06:53:23.421 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+2025-11-26 06:53:23.421 [main] INFO  e.univ.erp.util.DbConnectionManager - ERP database connection pool initialized
+2025-11-26 06:53:34.844 [AWT-EventQueue-0] INFO  e.u.e.service.AuthenticationService - User logged in successfully: admin1 (ADMIN)
+2025-11-26 06:53:38.301 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-11-26 06:53:38.426 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-11-26 06:53:38.427 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown initiated...
+2025-11-26 06:53:38.444 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown completed.
+2025-11-26 06:53:38.444 [Thread-0] INFO  e.univ.erp.util.DbConnectionManager - Database connections closed
+2025-11-26 07:00:51.325 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-11-26 07:00:51.700 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@71a8adcf
+2025-11-26 07:00:51.703 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-11-26 07:00:51.704 [main] INFO  e.univ.erp.util.DbConnectionManager - Auth database connection pool initialized
+2025-11-26 07:00:51.704 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+2025-11-26 07:00:51.713 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@59505b48
+2025-11-26 07:00:51.714 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+2025-11-26 07:00:51.714 [main] INFO  e.univ.erp.util.DbConnectionManager - ERP database connection pool initialized
+2025-11-26 07:01:10.047 [AWT-EventQueue-0] INFO  e.u.e.service.AuthenticationService - User logged in successfully: admin1 (ADMIN)
+2025-11-26 07:01:16.423 [AWT-EventQueue-0] INFO  edu.univ.erp.data.SettingsDao - Maintenance mode set to: true
+2025-11-26 07:01:16.424 [AWT-EventQueue-0] INFO  edu.univ.erp.service.AdminService - Maintenance mode toggled: true
+2025-11-26 07:01:31.958 [AWT-EventQueue-0] WARN  e.u.e.service.AuthenticationService - Login failed: user not found - Stu3
+2025-11-26 07:01:39.718 [AWT-EventQueue-0] WARN  e.u.e.service.AuthenticationService - Login failed: user not found - Stu3
+2025-11-26 07:01:53.351 [AWT-EventQueue-0] INFO  e.u.e.service.AuthenticationService - User logged in successfully: stu1 (STUDENT)
+2025-11-26 07:02:25.025 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-11-26 07:02:25.069 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-11-26 07:02:25.069 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown initiated...
+2025-11-26 07:02:25.076 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown completed.
+2025-11-26 07:02:25.076 [Thread-0] INFO  e.univ.erp.util.DbConnectionManager - Database connections closed
+2025-11-26 07:12:03.089 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-11-26 07:12:03.479 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@71a8adcf
+2025-11-26 07:12:03.481 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-11-26 07:12:03.481 [main] INFO  e.univ.erp.util.DbConnectionManager - Auth database connection pool initialized
+2025-11-26 07:12:03.482 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+2025-11-26 07:12:03.490 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@59505b48
+2025-11-26 07:12:03.491 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+2025-11-26 07:12:03.491 [main] INFO  e.univ.erp.util.DbConnectionManager - ERP database connection pool initialized
+2025-11-26 07:12:15.590 [AWT-EventQueue-0] INFO  e.u.e.service.AuthenticationService - User logged in successfully: admin1 (ADMIN)
+2025-11-26 07:12:32.055 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-11-26 07:12:32.183 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-11-26 07:12:32.183 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown initiated...
+2025-11-26 07:12:32.189 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown completed.
+2025-11-26 07:12:32.190 [Thread-0] INFO  e.univ.erp.util.DbConnectionManager - Database connections closed
+2025-11-26 07:12:57.567 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-11-26 07:12:58.001 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@71a8adcf
+2025-11-26 07:12:58.003 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-11-26 07:12:58.004 [main] INFO  e.univ.erp.util.DbConnectionManager - Auth database connection pool initialized
+2025-11-26 07:12:58.004 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+2025-11-26 07:12:58.014 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@59505b48
+2025-11-26 07:12:58.015 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+2025-11-26 07:12:58.015 [main] INFO  e.univ.erp.util.DbConnectionManager - ERP database connection pool initialized
+2025-11-26 07:13:13.693 [AWT-EventQueue-0] INFO  e.u.e.service.AuthenticationService - User logged in successfully: admin1 (ADMIN)
+2025-11-26 07:13:23.083 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-11-26 07:13:23.118 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-11-26 07:13:23.118 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown initiated...
+2025-11-26 07:13:23.133 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown completed.
+2025-11-26 07:13:23.133 [Thread-0] INFO  e.univ.erp.util.DbConnectionManager - Database connections closed
+2025-11-26 07:15:13.108 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-11-26 07:15:13.533 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@71a8adcf
+2025-11-26 07:15:13.536 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-11-26 07:15:13.537 [main] INFO  e.univ.erp.util.DbConnectionManager - Auth database connection pool initialized
+2025-11-26 07:15:13.537 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+2025-11-26 07:15:13.549 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@59505b48
+2025-11-26 07:15:13.549 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+2025-11-26 07:15:13.550 [main] INFO  e.univ.erp.util.DbConnectionManager - ERP database connection pool initialized
+2025-11-26 07:15:24.310 [AWT-EventQueue-0] INFO  e.u.e.service.AuthenticationService - User logged in successfully: admin1 (ADMIN)
+2025-11-26 07:15:38.049 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-11-26 07:15:38.084 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-11-26 07:15:38.084 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown initiated...
+2025-11-26 07:15:38.094 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown completed.
+2025-11-26 07:15:38.094 [Thread-0] INFO  e.univ.erp.util.DbConnectionManager - Database connections closed
+2025-11-26 07:16:57.506 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-11-26 07:16:57.865 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@71a8adcf
+2025-11-26 07:16:57.867 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-11-26 07:16:57.868 [main] INFO  e.univ.erp.util.DbConnectionManager - Auth database connection pool initialized
+2025-11-26 07:16:57.868 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+2025-11-26 07:16:57.878 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@59505b48
+2025-11-26 07:16:57.878 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+2025-11-26 07:16:57.878 [main] INFO  e.univ.erp.util.DbConnectionManager - ERP database connection pool initialized
+2025-11-26 07:17:06.737 [AWT-EventQueue-0] INFO  e.u.e.service.AuthenticationService - User logged in successfully: admin1 (ADMIN)
+2025-11-26 07:17:13.111 [AWT-EventQueue-0] INFO  edu.univ.erp.data.NotificationDao - Notification published by user 1: Welcome to the University ERP System!
+2025-11-26 07:17:17.726 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-11-26 07:17:17.853 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-11-26 07:17:17.854 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown initiated...
+2025-11-26 07:17:17.860 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown completed.
+2025-11-26 07:17:17.861 [Thread-0] INFO  e.univ.erp.util.DbConnectionManager - Database connections closed
+2025-11-26 07:17:38.889 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-11-26 07:17:39.264 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@71a8adcf
+2025-11-26 07:17:39.267 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-11-26 07:17:39.267 [main] INFO  e.univ.erp.util.DbConnectionManager - Auth database connection pool initialized
+2025-11-26 07:17:39.268 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+2025-11-26 07:17:39.278 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@59505b48
+2025-11-26 07:17:39.278 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+2025-11-26 07:17:39.278 [main] INFO  e.univ.erp.util.DbConnectionManager - ERP database connection pool initialized
+2025-11-26 07:17:48.250 [AWT-EventQueue-0] INFO  e.u.e.service.AuthenticationService - User logged in successfully: admin1 (ADMIN)
+2025-11-26 07:17:53.062 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-11-26 07:17:53.155 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-11-26 07:17:53.156 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown initiated...
+2025-11-26 07:17:53.163 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown completed.
+2025-11-26 07:17:53.163 [Thread-0] INFO  e.univ.erp.util.DbConnectionManager - Database connections closed
+2025-11-26 07:43:02.972 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-11-26 07:43:03.330 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@71a8adcf
+2025-11-26 07:43:03.332 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-11-26 07:43:03.332 [main] INFO  e.univ.erp.util.DbConnectionManager - Auth database connection pool initialized
+2025-11-26 07:43:03.333 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+2025-11-26 07:43:03.342 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@59505b48
+2025-11-26 07:43:03.342 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+2025-11-26 07:43:03.342 [main] INFO  e.univ.erp.util.DbConnectionManager - ERP database connection pool initialized
+2025-11-26 07:43:13.091 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-11-26 07:43:13.188 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-11-26 07:43:13.188 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown initiated...
+2025-11-26 07:43:13.198 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown completed.
+2025-11-26 07:43:13.199 [Thread-0] INFO  e.univ.erp.util.DbConnectionManager - Database connections closed
+2025-11-26 08:00:35.854 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-11-26 08:00:36.214 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@71a8adcf
+2025-11-26 08:00:36.218 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-11-26 08:00:36.218 [main] INFO  e.univ.erp.util.DbConnectionManager - Auth database connection pool initialized
+2025-11-26 08:00:36.218 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+2025-11-26 08:00:36.228 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@59505b48
+2025-11-26 08:00:36.228 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+2025-11-26 08:00:36.228 [main] INFO  e.univ.erp.util.DbConnectionManager - ERP database connection pool initialized
+2025-11-26 08:00:47.225 [AWT-EventQueue-0] INFO  e.u.e.service.AuthenticationService - User logged in successfully: admin1 (ADMIN)
+2025-11-26 08:00:52.873 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-11-26 08:00:52.914 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-11-26 08:00:52.916 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown initiated...
+2025-11-26 08:00:52.925 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown completed.
+2025-11-26 08:00:52.926 [Thread-0] INFO  e.univ.erp.util.DbConnectionManager - Database connections closed
+2025-11-26 08:29:00.174 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-11-26 08:29:00.486 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@68e965f5
+2025-11-26 08:29:00.489 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-11-26 08:29:00.489 [main] INFO  e.univ.erp.util.DbConnectionManager - Auth database connection pool initialized
+2025-11-26 08:29:00.490 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+2025-11-26 08:29:00.498 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@40cb8df7
+2025-11-26 08:29:00.499 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+2025-11-26 08:29:00.499 [main] INFO  e.univ.erp.util.DbConnectionManager - ERP database connection pool initialized
+2025-11-26 08:29:13.397 [AWT-EventQueue-0] INFO  e.u.e.service.AuthenticationService - User logged in successfully: admin1 (ADMIN)
+2025-11-26 08:30:08.962 [AWT-EventQueue-0] INFO  e.u.e.service.AuthenticationService - User logged in successfully: stu1 (STUDENT)
+2025-11-26 08:30:41.691 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-11-26 08:30:41.782 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-11-26 08:30:41.782 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown initiated...
+2025-11-26 08:30:41.811 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown completed.
+2025-11-26 08:30:41.812 [Thread-0] INFO  e.univ.erp.util.DbConnectionManager - Database connections closed
+2025-11-26 08:31:22.705 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-11-26 08:31:23.095 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@71a8adcf
+2025-11-26 08:31:23.098 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-11-26 08:31:23.099 [main] INFO  e.univ.erp.util.DbConnectionManager - Auth database connection pool initialized
+2025-11-26 08:31:23.099 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+2025-11-26 08:31:23.111 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@59505b48
+2025-11-26 08:31:23.112 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+2025-11-26 08:31:23.112 [main] INFO  e.univ.erp.util.DbConnectionManager - ERP database connection pool initialized
+2025-11-26 08:31:33.389 [AWT-EventQueue-0] INFO  e.u.e.service.AuthenticationService - User logged in successfully: admin1 (ADMIN)
+2025-11-26 08:31:49.471 [AWT-EventQueue-0] INFO  e.u.e.service.AuthenticationService - User logged in successfully: stu1 (STUDENT)
+2025-11-26 08:31:54.673 [AWT-EventQueue-0] INFO  edu.univ.erp.data.EnrollmentDao - Student 3 dropped section 5
+2025-11-26 08:32:25.597 [AWT-EventQueue-0] INFO  edu.univ.erp.data.EnrollmentDao - Student 3 registered for section 2
+2025-11-26 08:32:47.741 [AWT-EventQueue-0] INFO  e.u.e.service.AuthenticationService - User logged in successfully: admin1 (ADMIN)
+2025-11-26 08:33:06.188 [AWT-EventQueue-0] INFO  e.u.e.service.AuthenticationService - User logged in successfully: stu1 (STUDENT)
+2025-11-26 08:33:35.190 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-11-26 08:33:35.317 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-11-26 08:33:35.317 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown initiated...
+2025-11-26 08:33:35.328 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown completed.
+2025-11-26 08:33:35.329 [Thread-0] INFO  e.univ.erp.util.DbConnectionManager - Database connections closed
+2025-11-26 09:05:56.262 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-11-26 09:05:56.872 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@71a8adcf
+2025-11-26 09:05:56.878 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-11-26 09:05:56.879 [main] INFO  e.univ.erp.util.DbConnectionManager - Auth database connection pool initialized
+2025-11-26 09:05:56.880 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+2025-11-26 09:05:56.896 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@59505b48
+2025-11-26 09:05:56.897 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+2025-11-26 09:05:56.898 [main] INFO  e.univ.erp.util.DbConnectionManager - ERP database connection pool initialized
+2025-11-26 09:06:13.620 [AWT-EventQueue-0] INFO  e.u.e.service.AuthenticationService - User logged in successfully: admin1 (ADMIN)
+2025-11-26 09:06:15.751 [AWT-EventQueue-0] INFO  edu.univ.erp.data.SettingsDao - Maintenance mode set to: true
+2025-11-26 09:06:15.752 [AWT-EventQueue-0] INFO  edu.univ.erp.service.AdminService - Maintenance mode toggled: true
+2025-11-26 09:07:34.153 [AWT-EventQueue-0] INFO  e.u.e.service.AuthenticationService - User logged in successfully: stu1 (STUDENT)
+2025-11-26 09:09:06.565 [AWT-EventQueue-0] INFO  e.u.e.service.AuthenticationService - User logged in successfully: admin1 (ADMIN)
+2025-11-26 09:09:10.079 [AWT-EventQueue-0] INFO  edu.univ.erp.data.SettingsDao - Maintenance mode set to: false
+2025-11-26 09:09:10.079 [AWT-EventQueue-0] INFO  edu.univ.erp.service.AdminService - Maintenance mode toggled: false
+2025-11-26 09:09:22.346 [AWT-EventQueue-0] INFO  e.u.e.service.AuthenticationService - User logged in successfully: Inst1 (INSTRUCTOR)
+2025-11-26 09:09:59.439 [AWT-EventQueue-0] INFO  edu.univ.erp.data.GradeDao - Grade updated for enrollment 1 component Quiz
+2025-11-26 09:09:59.439 [AWT-EventQueue-0] INFO  e.univ.erp.service.InstructorService - Grade entered for enrollment 1 component Quiz: 80.0/100.0
+2025-11-26 09:09:59.455 [AWT-EventQueue-0] INFO  edu.univ.erp.data.GradeDao - Grade updated for enrollment 1 component Midterm
+2025-11-26 09:09:59.455 [AWT-EventQueue-0] INFO  e.univ.erp.service.InstructorService - Grade entered for enrollment 1 component Midterm: 90.0/100.0
+2025-11-26 09:09:59.476 [AWT-EventQueue-0] INFO  edu.univ.erp.data.GradeDao - Grade updated for enrollment 1 component EndSem
+2025-11-26 09:09:59.476 [AWT-EventQueue-0] INFO  e.univ.erp.service.InstructorService - Grade entered for enrollment 1 component EndSem: 80.0/100.0
+2025-11-26 09:11:35.815 [AWT-EventQueue-0] INFO  e.u.e.service.AuthenticationService - User logged in successfully: stu1 (STUDENT)
+2025-11-26 09:15:17.118 [AWT-EventQueue-0] INFO  e.u.e.service.AuthenticationService - User logged in successfully: admin1 (ADMIN)
+2025-11-26 09:19:01.169 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-11-26 09:19:01.308 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-11-26 09:19:01.309 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown initiated...
+2025-11-26 09:19:01.324 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown completed.
+2025-11-26 09:19:01.325 [Thread-0] INFO  e.univ.erp.util.DbConnectionManager - Database connections closed
+2025-11-26 09:19:51.371 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-11-26 09:19:52.050 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@71a8adcf
+2025-11-26 09:19:52.055 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-11-26 09:19:52.055 [main] INFO  e.univ.erp.util.DbConnectionManager - Auth database connection pool initialized
+2025-11-26 09:19:52.056 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+2025-11-26 09:19:52.072 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@59505b48
+2025-11-26 09:19:52.073 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+2025-11-26 09:19:52.073 [main] INFO  e.univ.erp.util.DbConnectionManager - ERP database connection pool initialized
+2025-11-26 09:20:11.600 [AWT-EventQueue-0] INFO  e.u.e.service.AuthenticationService - User logged in successfully: admin1 (ADMIN)
+2025-11-26 09:21:36.787 [AWT-EventQueue-0] INFO  e.u.e.service.AuthenticationService - User logged in successfully: stu1 (STUDENT)
+2025-11-26 09:22:28.944 [AWT-EventQueue-0] INFO  e.u.e.service.AuthenticationService - User logged in successfully: inst1 (INSTRUCTOR)
+2025-11-26 09:27:13.182 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-11-26 09:27:13.218 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-11-26 09:27:13.218 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown initiated...
+2025-11-26 09:27:13.224 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown completed.
+2025-11-26 09:27:13.224 [Thread-0] INFO  e.univ.erp.util.DbConnectionManager - Database connections closed
+2025-11-26 10:20:36.788 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-11-26 10:20:37.467 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4a668b6e
+2025-11-26 10:20:37.474 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-11-26 10:20:37.475 [main] INFO  e.univ.erp.util.DbConnectionManager - Auth database connection pool initialized
+2025-11-26 10:20:37.477 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+2025-11-26 10:20:37.498 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5939a379
+2025-11-26 10:20:37.498 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+2025-11-26 10:20:37.499 [main] INFO  e.univ.erp.util.DbConnectionManager - ERP database connection pool initialized
+2025-11-26 10:20:44.699 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-11-26 10:20:44.832 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-11-26 10:20:44.835 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown initiated...
+2025-11-26 10:20:44.858 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown completed.
+2025-11-26 10:20:44.859 [Thread-0] INFO  e.univ.erp.util.DbConnectionManager - Database connections closed
+2025-11-26 10:21:44.087 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-11-26 10:21:44.758 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@71a8adcf
+2025-11-26 10:21:44.763 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-11-26 10:21:44.764 [main] INFO  e.univ.erp.util.DbConnectionManager - Auth database connection pool initialized
+2025-11-26 10:21:44.765 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+2025-11-26 10:21:44.781 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@59505b48
+2025-11-26 10:21:44.781 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+2025-11-26 10:21:44.782 [main] INFO  e.univ.erp.util.DbConnectionManager - ERP database connection pool initialized
+2025-11-26 10:21:48.788 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-11-26 10:21:48.855 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-11-26 10:21:48.856 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown initiated...
+2025-11-26 10:21:48.867 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown completed.
+2025-11-26 10:21:48.869 [Thread-0] INFO  e.univ.erp.util.DbConnectionManager - Database connections closed
+2025-11-26 10:22:26.001 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-11-26 10:22:26.620 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@71a8adcf
+2025-11-26 10:22:26.625 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-11-26 10:22:26.625 [main] INFO  e.univ.erp.util.DbConnectionManager - Auth database connection pool initialized
+2025-11-26 10:22:26.627 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+2025-11-26 10:22:26.642 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@59505b48
+2025-11-26 10:22:26.643 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+2025-11-26 10:22:26.643 [main] INFO  e.univ.erp.util.DbConnectionManager - ERP database connection pool initialized
+2025-11-26 10:22:30.790 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-11-26 10:22:30.834 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-11-26 10:22:30.835 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown initiated...
+2025-11-26 10:22:30.843 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown completed.
+2025-11-26 10:22:30.844 [Thread-0] INFO  e.univ.erp.util.DbConnectionManager - Database connections closed
+2025-11-26 10:22:43.280 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-11-26 10:22:43.906 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@71a8adcf
+2025-11-26 10:22:43.910 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-11-26 10:22:43.910 [main] INFO  e.univ.erp.util.DbConnectionManager - Auth database connection pool initialized
+2025-11-26 10:22:43.911 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+2025-11-26 10:22:43.923 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@59505b48
+2025-11-26 10:22:43.924 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+2025-11-26 10:22:43.925 [main] INFO  e.univ.erp.util.DbConnectionManager - ERP database connection pool initialized
+2025-11-26 10:22:51.160 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-11-26 10:22:51.180 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-11-26 10:22:51.183 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown initiated...
+2025-11-26 10:22:51.223 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown completed.
+2025-11-26 10:22:51.224 [Thread-0] INFO  e.univ.erp.util.DbConnectionManager - Database connections closed
+2025-11-26 10:25:01.722 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-11-26 10:25:02.445 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@71a8adcf
+2025-11-26 10:25:02.450 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-11-26 10:25:02.450 [main] INFO  e.univ.erp.util.DbConnectionManager - Auth database connection pool initialized
+2025-11-26 10:25:02.452 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+2025-11-26 10:25:02.470 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@59505b48
+2025-11-26 10:25:02.471 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+2025-11-26 10:25:02.472 [main] INFO  e.univ.erp.util.DbConnectionManager - ERP database connection pool initialized
+2025-11-26 10:25:06.503 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-11-26 10:25:06.573 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-11-26 10:25:06.574 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown initiated...
+2025-11-26 10:25:06.597 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown completed.
+2025-11-26 10:25:06.597 [Thread-0] INFO  e.univ.erp.util.DbConnectionManager - Database connections closed
+2025-11-26 10:26:36.990 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-11-26 10:26:37.661 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@71a8adcf
+2025-11-26 10:26:37.665 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-11-26 10:26:37.665 [main] INFO  e.univ.erp.util.DbConnectionManager - Auth database connection pool initialized
+2025-11-26 10:26:37.666 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+2025-11-26 10:26:37.680 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@59505b48
+2025-11-26 10:26:37.681 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+2025-11-26 10:26:37.681 [main] INFO  e.univ.erp.util.DbConnectionManager - ERP database connection pool initialized
+2025-11-26 10:26:43.701 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-11-26 10:26:43.740 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-11-26 10:26:43.740 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown initiated...
+2025-11-26 10:26:43.756 [Thread-0] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown completed.
+2025-11-26 10:26:43.756 [Thread-0] INFO  e.univ.erp.util.DbConnectionManager - Database connections closed
